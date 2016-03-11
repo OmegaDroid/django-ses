@@ -1,4 +1,4 @@
-==========
+========== 
 Django-SES
 ==========
 :Info: A Django email backend for Amazon's Simple Email Service
